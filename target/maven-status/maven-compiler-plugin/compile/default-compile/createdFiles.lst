@@ -1,0 +1,5 @@
+dev/uedercardoso/websocket/config/WebSocketConfig.class
+dev/uedercardoso/websocket/web/controller/GreetingController.class
+dev/uedercardoso/websocket/web/domain/model/HelloMessage.class
+dev/uedercardoso/websocket/ExampleWebsocketApplication.class
+dev/uedercardoso/websocket/web/domain/model/Greeting.class
