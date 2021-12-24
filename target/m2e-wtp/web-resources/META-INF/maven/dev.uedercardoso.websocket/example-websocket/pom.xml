@@ -14,9 +14,9 @@
 	<relativePath/> 
   </parent>
 
-  <!--<properties>
+  <properties>
 	<java.version>17</java.version>
-  </properties>-->
+  </properties>
 	
   <dependencies>
  	<dependency>
