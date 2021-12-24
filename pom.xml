@@ -16,6 +16,8 @@
 
   <properties>
 	<java.version>17</java.version>
+	<maven.compiler.source>${java.runtime.version}</maven.compiler.source>
+    <maven.compiler.target>${java.runtime.version}</maven.compiler.target>
   </properties>
 	
   <dependencies>
@@ -71,4 +73,15 @@
 	    <artifactId>spring-websocket</artifactId>
 	</dependency>
   </dependencies>
+  
+  	<build>
+  		<finalName>example-websocket</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+  
 </project>
