@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MessagingWebsocketApplication {
+public class MessagingWebSocketServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MessagingWebsocketApplication.class, args);
+		SpringApplication.run(MessagingWebSocketServerApplication.class, args);
 	}
 
 }
