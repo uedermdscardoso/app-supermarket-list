@@ -1,13 +1,14 @@
 package dev.uedercardoso.websocket.web.domain.model;
 
-public class HelloMessage {
+public class Message {
 
   private String name;
 
-  public HelloMessage() {
+  public Message() {
+
   }
 
-  public HelloMessage(String name) {
+  public Message(String name) {
     this.name = name;
   }
 
