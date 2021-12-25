@@ -7,7 +7,6 @@ Front-end: Flutter <br />
 Hosting: Heroku (server)
 
 Client: https://github.com/uedermdscardoso/messaging_websocket_client
-
 <br />
 
 Version:  <br />
