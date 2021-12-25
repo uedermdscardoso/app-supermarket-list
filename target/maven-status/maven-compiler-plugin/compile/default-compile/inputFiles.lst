@@ -1,5 +1,0 @@
-/home/uedercardoso/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/example-websocket/src/main/java/dev/uedercardoso/websocket/ExampleWebsocketApplication.java
-/home/uedercardoso/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/example-websocket/src/main/java/dev/uedercardoso/websocket/web/domain/model/HelloMessage.java
-/home/uedercardoso/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/example-websocket/src/main/java/dev/uedercardoso/websocket/web/domain/model/Greeting.java
-/home/uedercardoso/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/example-websocket/src/main/java/dev/uedercardoso/websocket/config/WebSocketConfig.java
-/home/uedercardoso/Documents/workspace-spring-tool-suite-4-4.12.1.RELEASE/example-websocket/src/main/java/dev/uedercardoso/websocket/web/controller/GreetingController.java
